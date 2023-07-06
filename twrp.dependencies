@@ -1,8 +1,0 @@
-[
-  {
-    "remote": "github",
-    "repository": "infinixs5lite/kernel_xiaomi_fog",
-    "target_path": "kernel/xiaomi/fog",
-    "branch": "android-12"
-  }
-]
